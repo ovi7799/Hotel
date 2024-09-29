@@ -1,0 +1,89 @@
+@media only screen and (max-width: 1200px) {
+    .banner-section-box-text{
+        font-size: 21px;
+    }
+    .room-section-photo-2{
+        height: 365px;
+    }
+    .room-section-photo-3{
+        height: 368px;
+    }
+    .hotel-section-pic-text {
+        margin-top: 100%;
+    }
+}
+
+@media only screen and (max-width: 992px) {
+    .nav-menu{
+        margin: 0;
+    }
+    .banner-section-box-text{
+        font-size: 12px;
+    }
+    .banner-section-box-select{
+        font-size: 12px;
+    }
+    .banner-section-box-btn{
+        margin-top: 31px;
+    }
+    .room-section-photo-2{
+        height: 320px;
+    }
+    .room-section-photo-3{
+        height: 320px;
+    }
+    .hotel-section-pic-text {
+        margin-top: 20%;
+    }
+    .hotel-section-pic-text-2{
+        margin-top: 90%;
+    }
+}
+
+@media only screen and (max-width: 774px) {
+    .banner-section-box{
+        grid-template-columns: repeat(1,1fr);
+    }
+    .banner-section-heading{
+        font-size: 40px;
+    }
+    .banner-section-box{
+        padding: 6%;
+    }
+    .banner-section-box-text{
+        font-size: 22px;
+    }
+    .banner-section-box-select{
+        font-size: 16px;
+    }
+    .room-section-photo-3{
+        margin-top: 0;
+    }
+    .room-section-photo-2{
+        height: 400px;
+    }
+    .room-section-photo-3{
+        height: 400px;
+    }
+    .hotel-section-pic-text {
+        margin-top: 80%;
+    }
+    .hotel-section-pic-text-2{
+        margin-top: 75%;
+    }
+    .contact-section-box{
+        width: 100%;
+    }
+    .testimonial-section-photo {
+        padding: 10%;
+    }
+}
+
+@media only screen and (max-width: 421px) {
+    .hotel-section-pic-text{
+        margin-top: 100%;
+    }
+    .hotel-section-pic-text-2{
+        margin-top: 95%;
+    }
+}
